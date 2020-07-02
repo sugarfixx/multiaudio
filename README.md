@@ -5,16 +5,15 @@ If you are starting a blank project from a clean composer.json
 ```angular2html
 
 {
-    "require": {
-            "sugarfixx/multiaudio":"0.1"
-        },
-        "repositories": [
-          {
-            "type": "vcs",
-            "url": "git@github.com:sugarfixx/multiaudio.git"
-          }
-        ]   
-    }
+   "require":{
+      "sugarfixx/multiaudio":"0.1"
+   },
+   "repositories":[
+      {
+         "type":"vcs",
+         "url":"git@github.com:sugarfixx/multiaudio.git"
+      }
+   ]
 }
 ```
 
