@@ -6,6 +6,8 @@
  * Time: 07:18
  */
 
+namespace NepAudioModel;
+
 class AudioChannel
 {
     private $channelIndex;
