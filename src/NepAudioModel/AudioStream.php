@@ -6,6 +6,8 @@
  * Time: 08:05
  */
 
+namespace NepAudioModel;
+
 class AudioStream
 {
     private $id;

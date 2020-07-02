@@ -1,0 +1,24 @@
+{
+  "name": "sugarfixx/multiaudio",
+  "description": "Build Nep AudioModel and Audio Mapping from Configured Templates",
+  "type": "library",
+  "require-dev": {
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ingar Torsrud",
+      "email": "ingar.torsrud@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "KafkaService": "src/"
+    }
+  }
+}
