@@ -1,0 +1,146 @@
+{
+  "data" : [
+    {
+      "bit_depth":24,
+      "bit_rate":9216000,
+      "bit_rate_mode":"CBR",
+      "channels":[
+        {
+          "channel_index":1,
+          "description":"undescribed",
+          "title":"untitled - 1",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":2,
+          "description":"undescribed",
+          "title":"untitled - 2",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":3,
+          "description":"undescribed",
+          "title":"untitled - 3",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":4,
+          "description":"undescribed",
+          "title":"untitled - 4",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":5,
+          "description":"undescribed",
+          "title":"untitled - 5",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":6,
+          "description":"undescribed",
+          "title":"untitled - 6",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":7,
+          "description":"undescribed",
+          "title":"untitled - 7",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":8,
+          "description":"undescribed",
+          "title":"untitled - 8",
+          "languages":null,
+          "type":"undefined"
+        }
+      ],
+      "codec_id":"0D01030102060100",
+      "endianess":"Little",
+      "format":"PCM",
+      "id":3,
+      "sample_rate":48000,
+      "stream_index":1,
+      "type":"multi",
+      "wrapping":"Frame (BWF)"
+    },
+    {
+      "bit_depth":24,
+      "bit_rate":9216000,
+      "bit_rate_mode":"CBR",
+      "channels":[
+        {
+          "channel_index":1,
+          "description":"undescribed",
+          "title":"untitled - 1",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":2,
+          "description":"undescribed",
+          "title":"untitled - 2",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":3,
+          "description":"undescribed",
+          "title":"untitled - 3",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":4,
+          "description":"undescribed",
+          "title":"untitled - 4",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":5,
+          "description":"undescribed",
+          "title":"untitled - 5",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":6,
+          "description":"undescribed",
+          "title":"untitled - 6",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":7,
+          "description":"undescribed",
+          "title":"untitled - 7",
+          "languages":null,
+          "type":"undefined"
+        },
+        {
+          "channel_index":8,
+          "description":"undescribed",
+          "title":"untitled - 8",
+          "languages":null,
+          "type":"undefined"
+        }
+      ],
+      "codec_id":"0D01030102060100",
+      "endianess":"Little",
+      "format":"PCM",
+      "id":4,
+      "sample_rate":48000,
+      "stream_index":2,
+      "type":"multi",
+      "wrapping":"Frame (BWF)"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "CustomerId": 12345,
+  "Customername": "NewMedia",
+  "SelectableTrackNames" : [
+    "Commentary", "FX", "International Mix"
+  ],
+  "Templates" : [
+    {
+      "TemplateId" : 1234,
+      "TemplateName" : "Default",
+      "Criteria": [],
+      "Tracks":
+      [
+        {
+          "Index": 1,
+          "Language": "Undefined",
+          "Label": "Track 1",
+          "Visible": true
+        },
+        {
+          "Index": 2,
+          "Language": "Undefined",
+          "Label": "Track 2",
+          "Visible": true
+        },
+        {
+          "Index": 3,
+          "Language": "Undefined",
+          "Label": "Track 3",
+          "Visible": true
+        },
+        {
+          "Index": 4,
+          "Language": "Undefined",
+          "Label": "Track 4",
+          "Visible": true
+        },
+        {
+          "Index": 5,
+          "Language": "Undefined",
+          "Label": "Track 5",
+          "Visible": true
+        },
+        {
+          "Index": 6,
+          "Language": "Undefined",
+          "Label": "Track 6",
+          "Visible": true
+        },
+        {
+          "Index": 7,
+          "Language": "Undefined",
+          "Label": "Track 7",
+          "Visible": true
+        },
+        {
+          "Index": 8,
+          "Language": "Undefined",
+          "Label": "Track 8",
+          "Visible": true
+        },
+        {
+          "Index": 9,
+          "Language": "Undefined",
+          "Label": "Track 9",
+          "Visible": true
+        },
+        {
+          "Index": 10,
+          "Language": "Undefined",
+          "Label": "Track 10",
+          "Visible": true
+        },
+        {
+          "Index": 11,
+          "Language": "Undefined",
+          "Label": "Track 11",
+          "Visible": true
+        },
+        {
+          "Index": 12,
+          "Language": "Undefined",
+          "Label": "Track 12",
+          "Visible": true
+        },
+        {
+          "Index": 13,
+          "Language": "Undefined",
+          "Label": "Track 13",
+          "Visible": true
+        },
+        {
+          "Index": 14,
+          "Language": "Undefined",
+          "Label": "Track 14",
+          "Visible": true
+        },
+        {
+          "Index": 15,
+          "Language": "Undefined",
+          "Label": "Track 15",
+          "Visible": true
+        },
+        {
+          "Index": 16,
+          "Language": "Undefined",
+          "Label": "Track 16",
+          "Visible": true
+        }
+      ]
+    },
+    {
+      "TemplateId" : 1235,
+      "TemplateName" : "Kamper Eliteserien",
+      "Criteria": [
+        {"ContentType" : "Match"},
+        {"League": "Eliteserien"}
+      ],
+      "Tracks":
+      [
+        {
+          "Index": 1,
+          "Language": "Norwegian",
+          "Label": "ommentary",
+          "Visible": true
+        },
+        {
+          "Index": 2,
+          "Language": "English",
+          "Label": "Commentary",
+          "Visible": true
+        },
+        {
+          "Index": 3,
+          "Language": "English",
+          "Label": "International Mix",
+          "Visible": true
+        },
+        {
+          "Index": 4,
+          "Language": "Undefined",
+          "Label": "FX",
+          "Visible": false
+        }
+      ]
+    }
+  ]
+}
